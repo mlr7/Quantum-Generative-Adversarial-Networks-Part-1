@@ -132,11 +132,11 @@ learning models in subsequent notebooks.
 
 ## References and Miscellaneous Notes
 
-**Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks. Physical Review A 98, no. 1 (2018): 012324.**
-
 **Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N. and Lloyd, S., 2017. Quantum machine learning. Nature, 549(7671), pp.195-202.**
 
 Authors conjecture that quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. 
+
+**Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks. Physical Review A 98, no. 1 (2018): 012324.**
 
 **Georgescu, Iulia M., Sahel Ashhab, and Franco Nori. "Quantum simulation." Reviews of Modern Physics 86, no. 1 (2014): 153.**
 
