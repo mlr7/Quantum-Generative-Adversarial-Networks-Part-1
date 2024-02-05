@@ -99,7 +99,7 @@ which are subsequently converted into classical information through a measuremen
 This conversion is necessary for the input to be compatible with the discriminator. 
 Similarly, any quantum information initially present must undergo measurement.
 
-** Classical Data. Quantum Generator or Quantum Discriminator**: In this scenarios the QGAN is most comparable to 
+**Classical Data. Quantum Generator or Quantum Discriminator**: In this scenarios the QGAN is most comparable to 
 the classical analogs, utilizing standard data while integrating either a quantum generator or discriminator, 
 or sometimes both. This approach involves substituting one or both components of the GAN with quantum versions 
 that still interact with classical data inputs and outputs. Specifically, when employing a quantum discriminator, 
@@ -132,17 +132,17 @@ learning models in subsequent notebooks.
 
 ## References and Miscellaneous Notes
 
-Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks." Physical Review A 98, no. 1 (2018): 012324.
+**Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks. Physical Review A 98, no. 1 (2018): 012324.**
 
-Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N. and Lloyd, S., 2017. Quantum machine learning. Nature, 549(7671), pp.195-202.
+**Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N. and Lloyd, S., 2017. Quantum machine learning. Nature, 549(7671), pp.195-202.**
 
-Quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. 
+Authors conjecture that quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. 
 
-Georgescu, Iulia M., Sahel Ashhab, and Franco Nori. "Quantum simulation." Reviews of Modern Physics 86, no. 1 (2014): 153.
+**Georgescu, Iulia M., Sahel Ashhab, and Franco Nori. "Quantum simulation." Reviews of Modern Physics 86, no. 1 (2014): 153.**
 
-Daley, Andrew J., Immanuel Bloch, Christian Kokail, Stuart Flannigan, Natalie Pearson, Matthias Troyer, and Peter Zoller. "Practical quantum advantage in quantum simulation." Nature 607, no. 7920 (2022): 667-676.
+**Daley, Andrew J., Immanuel Bloch, Christian Kokail, Stuart Flannigan, Natalie Pearson, Matthias Troyer, and Peter Zoller. "Practical quantum advantage in quantum simulation." Nature 607, no. 7920 (2022): 667-676.**
 
-Many of the most promising short-term applications of quantum computers fall under the umbrella of quantum simulation: modelling the quantum properties of microscopic particles that are directly relevant to modern materials science, high-energy physics and quantum chemistry. 
+Authors state that many of the most promising short-term applications of quantum computers fall under the umbrella of quantum simulation: modelling the quantum properties of microscopic particles that are directly relevant to modern materials science, high-energy physics and quantum chemistry. 
 
 Quantum simulation can be performed not only on future fault-tolerant digital quantum computers but also already today through special-purpose analogue quantum simulators. 
 
