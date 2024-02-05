@@ -134,6 +134,18 @@ learning models in subsequent notebooks.
 
 **Lloyd, Seth, and Christian Weedbrook. "Quantum generative adversarial learning." Physical review letters 121, no. 4 (2018): 040502.**
 
+Abstract: **Generative adversarial networks (GANs)** represent a powerful tool for classical machine learning:
+a generator tries to create statistics for data that mimics those of a true data set, while a discriminator tries to discriminate between the true and fake data. The learning process for generator and
+discriminator can be thought of as an adversarial game, and under reasonable assumptions, the
+game converges to the point where the generator generates the same statistics as the true data and
+the discriminator is unable to discriminate between the true and the generated data. This paper
+introduces the notion of quantum generative adversarial networks (QuGANs), where the data consists either of quantum states, or of classical data, and the generator and discriminator are equipped
+with quantum information processors. We show that the unique fixed point of the quantum adversarial game also occurs when the generator produces the same statistics as the data. Since quantum
+systems are intrinsically probabilistic the proof of the quantum case is different from – and simpler
+than – the classical case. **We show that when the data consists of samples of measurements made
+on high-dimensional spaces, quantum adversarial networks may exhibit an exponential advantage
+over classical adversarial networks.**
+
 **Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N. and Lloyd, S., 2017. Quantum machine learning. Nature, 549(7671), pp.195-202.**
 
 Authors conjecture that quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. 
