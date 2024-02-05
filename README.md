@@ -132,6 +132,8 @@ learning models in subsequent notebooks.
 
 ## References and Miscellaneous Notes
 
+**Lloyd, Seth, and Christian Weedbrook. "Quantum generative adversarial learning." Physical review letters 121, no. 4 (2018): 040502.**
+
 **Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N. and Lloyd, S., 2017. Quantum machine learning. Nature, 549(7671), pp.195-202.**
 
 Authors conjecture that quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. 
