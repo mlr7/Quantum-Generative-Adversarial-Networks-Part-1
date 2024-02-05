@@ -1,6 +1,6 @@
 # Quantum-Generative-Adversarial-Networks-Part-1
 
-![](img/loss_img2.png)
+![](img/loss_img3.png)
 
 ## Introduction
 
