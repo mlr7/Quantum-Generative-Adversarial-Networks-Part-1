@@ -146,7 +146,7 @@ Many of the most promising short-term applications of quantum computers fall und
 
 Quantum simulation can be performed not only on future fault-tolerant digital quantum computers but also already today through special-purpose analogue quantum simulators. 
 
-Argue that a first practical quantum advantage already exists in the case of specialized applications of analogue devices, and that fully digital devices open a full range of applications but require further development of fault-tolerant hardware.
+The authors argue that a first practical quantum advantage already exists in the case of specialized applications of analogue devices, and that fully digital devices open a full range of applications but require further development of fault-tolerant hardware.
 
 
 
