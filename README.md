@@ -1,8 +1,10 @@
 # Quantum-Generative-Adversarial-Networks-Part-1
-Part 1 of an exploration of quantum generative modeling.
+
+![](img/loss_img2.png)
 
 ## Introduction
 
+Part 1 of this series on Quantum Machine Learning is an exploration of quantum generative modeling in a relatively simple case.
 In this notebook we use the PennyLane Python library to create a quantum Generative Adversarial Network (QGAN) 
 designed to operate on a two-qubit quantum computing device. 
 
@@ -19,7 +21,8 @@ which incorporates a noise source z. Conversely, figure (b) illustrates the role
 discriminator, which is challenged to ascertain whether the quantum state presented to it is 
 derived from a genuine quantum data source, R, or produced by a quantum generator, symbolized as 
 G(|z>), that utilizes a quantum noise vector |z>. The outcome of the discriminator's evaluation is 
-expressed as a quantum state, either |Real> for authentic sources or |Fake> for generated ones. Image reprodcued from Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks." Physical Review A 98, no. 1 (2018): 012324.
+expressed as a quantum state, either |Real> for authentic sources or |Fake> for generated ones. Image adapted from 
+Dallaire-Demers, Pierre-Luc, and Nathan Killoran. "Quantum generative adversarial networks." Physical Review A 98, no. 1 (2018): 012324.
 
 ## Background and Context
 
